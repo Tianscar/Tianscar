@@ -1,16 +1,14 @@
-### Hi there 👋
+```
+Here's Tianscar... a noob programmer.
 
-<!--
-**Tianscar/Tianscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- Personal website ---
+https://tianscar.com  the main site
+https://passport.tianscar.com the site navigation
+https://blog.tianscar.com the personal blog
+http://ysepan.tianscar.com the yse cloud storage (no https)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- Contact me ---
+E-mail: tianscar@protonmail.com
+Discord: Tianscar#8906
+QQ: 2740751193
+```
