@@ -13,5 +13,9 @@ Tianscar#8906                  # Discord
 2740751193                     # QQ
 ```
 
-![Tianscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianscar)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianscar&langs_count=8&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="192" src="https://github-readme-stats.vercel.app/api?username=Tianscar" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianscar&langs_count=8&layout=compact" />
+</a>
