@@ -1,5 +1,5 @@
 ```
-Here's Tianscar... a noob programmer.
+Here's Tianscar... a noob programmer from China.
 
 --- Personal website ---
 https://tianscar.com           # the main site
@@ -14,8 +14,8 @@ Tianscar#8906                  # Discord
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="192" src="https://github-readme-stats.vercel.app/api?username=Tianscar" />
+  <img height="192" src="https://github-readme-stats.vercel.app/api?username=Tianscar&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianscar&langs_count=8&layout=compact" />
+  <img height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianscar&langs_count=8&layout=compact&hide_border=true" />
 </a>
