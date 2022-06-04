@@ -13,10 +13,6 @@ Tianscar#8906                  # Discord
 2740751193                     # QQ
 ```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="192" src="https://github-readme-stats.vercel.app/api?username=Tianscar" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianscar&langs_count=8&layout=compact" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tianscar" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianscar&langs_count=8&layout=compact" />
