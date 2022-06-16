@@ -2,7 +2,7 @@
 Here's Tianscar... a noob programmer from China.
 
 --- Personal website ---
-https://tianscar.com           # the main site
+https://www.tianscar.com           # the main site
 https://sitenav.tianscar.com   # the website navigation
 https://blog.tianscar.com      # the personal blog
 http://ysepan.tianscar.com     # the yse cloud storage (no https)
