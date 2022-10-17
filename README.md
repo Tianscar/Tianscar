@@ -11,4 +11,7 @@ http://ysepan.tianscar.com     # the yse cloud storage (no https)
 tianscar@protonmail.com        # E-mail
 Tianscar#8906                  # Discord
 2740751193                     # QQ
+
+--- Sponsor me ---
+https://afdian.net/a/tianscar  # AFDIAN
 ```
