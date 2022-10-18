@@ -5,7 +5,9 @@ Here's Tianscar... a noob programmer from China.
 https://www.tianscar.com       # the main site
 https://sitenav.tianscar.com   # the website navigation
 https://blog.tianscar.com      # the personal blog
-http://ysepan.tianscar.com     # the yse cloud storage (no https)
+
+--- Other websites ---
+http://tianscar.ysepan.com     # the yse cloud storage (no https)
 
 --- Contact me ---
 tianscar@protonmail.com        # E-mail
