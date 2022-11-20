@@ -1,4 +1,3 @@
-```
 Here's Tianscar... a noob programmer from China.
 
 --- Personal website ---
@@ -16,4 +15,3 @@ Tianscar#8906                  # Discord
 
 --- Sponsor me ---
 https://afdian.net/a/tianscar  # AFDIAN
-```
