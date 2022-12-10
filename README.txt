@@ -5,7 +5,7 @@ https://www.tianscar.com       # the main site
 https://sitenav.tianscar.com   # the website navigation  
 https://blog.tianscar.com      # the personal blog
 
---- Other websites ---  
+--- Other related websites ---  
 http://tianscar.ysepan.com     # the yse cloud storage (no https)
 
 --- Contact me ---  
