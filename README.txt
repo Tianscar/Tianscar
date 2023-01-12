@@ -11,11 +11,8 @@ HTML5/CSS3/JS                  # HTML5
 
 === Frameworks ==============
 AWT/Swing                      # Java
-SWT
-JavaFX
 SpringBoot
 Quarkus
-GWT
 TeaVM
 libGDX
 jMonkeyEngine
