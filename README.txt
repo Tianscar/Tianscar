@@ -9,10 +9,10 @@ HTML5/CSS3/JS                  # HTML5
 =============================
 
 === Platforms ===============
-Java SE                        # Java
+Java SE                        # JVM
 Jakarta EE
 Android
-POSIX                          # C
+POSIX                          # Native
 X11
 Wayland
 Modern Browsers                # HTML5
