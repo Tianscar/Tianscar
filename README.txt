@@ -1,12 +1,21 @@
 Here's Tianscar... an amateur programmer from China.
 
 === Programming languages ===
-Java SE                        # JVM
-Jakarta EE
-Android
+Java                           # JVM
+Groovy
 C                              # Native
 C++
 HTML5/CSS3/JS                  # HTML5
+=============================
+
+=== Platforms ===============
+Java SE                        # Java
+Jakarta EE
+Android
+POSIX                          # C
+X11
+Wayland
+Modern Browsers                # HTML5
 =============================
 
 === Frameworks ==============
