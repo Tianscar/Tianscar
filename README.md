@@ -14,7 +14,7 @@ Java, C
 C++, Groovy, QML, Vala
 
 - Tier 3 - Fully understand of the grammar, but not proficient for use in development  
-Kotlin, Scala, C#, Swift, JavaScript, TypeScript, ActionScript, Fortran, BASIC, Visual Basic, Visual Basic.NET, UNIX Shell (sh, bash, csh), Batchfile
+Kotlin, Scala, C#, Swift, JavaScript, TypeScript, ActionScript, Fortran, BASIC, Visual Basic, Visual Basic.NET, UNIX Shell (sh, bash, csh, zsh, ksh), Batchfile
 
 - Tier 4 - Able to read and understand basically, almost impossible to use for development  
 Powershell, COBOL, PHP, R, MATLAB, Perl, Tcl, Ruby, Objective-C, Clojure, Common Lisp, Emacs Lisp, Scheme, Pascal, Object Pascal, Golang, Rust, Zig, haXe, Nim, CoffeeScript, Intel-style assembly, GNU-style assembly
