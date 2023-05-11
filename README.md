@@ -4,10 +4,10 @@
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tianscar&layout=compact&hide=css,scss,html,makefile,cmake,m4&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tianscar&layout=compact&hide=css,scss,html,makefile,cmake,m4&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-Programming Languages
+Programming languages
 ===
 
-- Tier 1 - My preferred programming language for development  
+- Tier 1 - My preferred programming languages for development  
 Java, C
 
 - Tier 2 - Can be used proficiently and occasionally for development  
