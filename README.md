@@ -16,7 +16,7 @@ Java, C
 - Tier 2 - Can be used proficiently and occasionally for development  
 C++, Groovy, QML, Vala
 
-- Tier 3 - Fully understand of the grammar, but not proficient for use in development  
+- Tier 3 - Fully understand of the grammar, but not proficient to use for development  
 Kotlin, Scala, C#, Swift, JavaScript, TypeScript, ActionScript, Fortran, BASIC, Visual Basic, Visual Basic.NET, UNIX Shell (sh, bash, csh, zsh, ksh), Batchfile
 
 - Tier 4 - Able to read and understand basically, almost impossible to use for development  
