@@ -24,3 +24,5 @@ Powershell, COBOL, PHP, R, MATLAB, Perl, Tcl, Ruby, Objective-C, Clojure, Common
 
 - Tier 5 - These programming languages are incomprehensible to me  
 Python, Haskell
+
+I could't understand why everyone says Python is easy to learn and use Q_Q
