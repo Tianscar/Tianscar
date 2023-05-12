@@ -20,7 +20,7 @@ C++, Groovy, QML, Vala
 Kotlin, Scala, C#, Swift, JavaScript, TypeScript, ActionScript, Lua, Fortran, BASIC, Visual Basic, Visual Basic.NET, UNIX Shell (sh, bash, csh, zsh, ksh), Batchfile
 
 - Tier 4 - Able to read and understand basically, almost impossible to use for development  
-Powershell, COBOL, PHP, R, MATLAB, Perl, Tcl, Ruby, Objective-C, Clojure, Common Lisp, Emacs Lisp, Scheme, Pascal, Object Pascal, Golang, Rust, Zig, haXe, Nim, CoffeeScript, Intel-style assembly, GNU-style assembly
+Powershell, COBOL, PHP, R, MATLAB, Perl, Tcl, Ruby, Objective-C, Clojure, Common Lisp, Emacs Lisp, Scheme, Pascal, Object Pascal, Golang, Rust, Zig, haXe, Nim, CoffeeScript, Java Bytecode, LLVM Bitcode, MSIL, Smali, Intel-style assembly, GNU-style assembly
 
 - Tier 5 - These programming languages are incomprehensible to me  
 Python, Haskell
