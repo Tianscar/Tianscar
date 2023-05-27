@@ -1,5 +1,7 @@
 Claims to be "Karstian Lee"
 
+Want to flee P.R.China but neither have enough money nor dare to enter other countries illegally
+
 Amateur programmer, well out of skill
 Sometimes developing open source projects, but never been involved in any open source community
 No account on StackOverflow
