@@ -1,5 +1,5 @@
 Claims to be "Karstian Lee", you can also call me "Karl" or "Kara", depends on your opinion
-It's "Karstian", not "Khristian" or "Karsten", I thought it would be a unique name :)
+It's "Karstian", not "Khristian" or "Karsten", I thought it would be a unique name ;)
 
 Amateur programmer, well out of skill
 Sometimes developing open source projects, but never been involved in any open source community
