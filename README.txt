@@ -1,4 +1,4 @@
-Claims to be "Karstian Lee"
+Claims to be "Karstian Lee", you can also call me "Karl" or "Kara", depends on your opinion
 
 Amateur programmer, well out of skill
 Sometimes developing open source projects, but never been involved in any open source community
