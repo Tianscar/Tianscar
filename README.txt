@@ -13,3 +13,5 @@ In general, use a full IDE and modern build tools, such as JetBrains IDEA and Gr
 Couldn't learn Python & Haskell well
 Refused to use Windows for several years, without any reason
 Dislike .NET, although used to write some code in C# & Visual Basic .NET
+
+To contact me, E-mail to tianscar@protonmail.com or add Tianscar#8906 on Discord!
