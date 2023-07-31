@@ -1,4 +1,4 @@
-Claims to be "Karstian Lee", you can also call me "Karl" or "Kara" depends on your opinion
+Claims to be "Karstian Lee"
 It's "Karstian", not "Khristian" or "Karsten", I think it's a unique name ;)
 
 Amateur programmer, well out of skill
