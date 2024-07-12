@@ -3,7 +3,7 @@ PGP fingerprint: 5AC111AC15DA041B79267A2D64E3CEC89B72E06F
 Claims to be "Karstian Lee"
 It's "Karstian", not "Khristian" or "Karsten", I think it's a unique name ;)
 
-Amateur programmer, programming just for fun
+Amateur programmer, programming just for fun, not experienced
 Sometimes developing open source projects, but never been involved in any open source community
 No account on StackOverflow
 
