@@ -14,7 +14,7 @@ It's "Karstian", not "Khristian" or "Karsten", I think it's unique ;)
 
 - Loyal GNU/Linux user
 - Refused to use any system which not POSIX-compliant
-- Dislike anything related to Microsoft, such as Windows
+- Dislike anything related to Microsoft, such as Microsoft® Windows® operating system
 
 - Use Java AWT/Swing for desktop development, not more modern JavaFX or those popular and more mature frameworks (Qt, Electron, etc.)
 - In general, use a full IDE and modern build tools, such as JetBrains IDEA and Gradle
