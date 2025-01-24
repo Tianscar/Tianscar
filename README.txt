@@ -36,4 +36,4 @@ If you feel uncomfortable, adapt as soon as possible ;)
 - I'm currently learning OpenGL, Vulkan, FFI, Chiptune, Swordsmanship and many crazy things
 - Pronouns: She/Her
 - How to reach me: E-mail to tianscar@protonmail.com or send messages to Tianscar#8906 on Discord
-- My nickname "Tianscar" comes about "tian" + "scar", the first part stands for "sky" in Chinese, the second part is English.
+- My nickname "Tianscar" comes about "tian" + "scar", the first part stands for "sky" in Chinese, the second part is English
