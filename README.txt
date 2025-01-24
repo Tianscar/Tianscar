@@ -31,6 +31,7 @@ It's "Karstian", not "Khristian" or "Karsten", I think it's unique ;)
 
 If you feel uncomfortable, adapt as soon as possible ;)
 
+- I like China and will continue to live in China after living there for 15+ years
 - I'm currently working on Multiffi (https://github.com/Multiffi)
 - I'm currently learning OpenGL, Vulkan, FFI, Chiptune, Swordsmanship and many crazy things
 - Pronouns: She/Her
