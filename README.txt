@@ -1,20 +1,37 @@
-PGP fingerprint: 5AC111AC15DA041B79267A2D64E3CEC89B72E06F
+5AC111AC15DA041B79267A2D64E3CEC89B72E06F
 
 Claims to be "Karstian Lee"
-It's "Karstian", not "Khristian" or "Karsten", I think it's a unique name ;)
+It's "Karstian", not "Khristian" or "Karsten", I think it's unique ;)
 
-Amateur programmer, programming just for fun
-Sometimes developing open source projects, but never been involved in any open source community
-No account on StackOverflow
+- Amateur programmer, programming just for fun
+- Open source developer
+- No account on StackOverflow
 
-Prefer to use Java & C for development
-Became a GNU/Linux user for no reason
-Android developer, but Kotlin-free
-Use Java AWT/Swing for desktop development, not more modern JavaFX or those popular and more mature frameworks (Qt, Electron, etc.)
-In general, use a full IDE and modern build tools, such as JetBrains IDEA and Gradle
+- Like and prefer to use Java for development
+- Android developer, but Kotlin-free
+- Use C instead of C++ wherever possible
+- Couldn't learn Python/Haskell/Scala well
 
-Couldn't learn Python & Haskell well
-Refused to use Windows for several years, without any reason
-Dislike .NET, although used to write some code in C# & Visual Basic .NET
+- Loyal GNU/Linux user
+- Refused to use any system which not POSIX-compliant
+- Dislike anything related to Microsoft, such as Windows
 
-To contact me, E-mail to tianscar@protonmail.com or send messages to Tianscar#8906 on Discord!
+- Use Java AWT/Swing for desktop development, not more modern JavaFX or those popular and more mature frameworks (Qt, Electron, etc.)
+- In general, use a full IDE and modern build tools, such as JetBrains IDEA and Gradle
+- If possible, I would like to use technologies of the 1990s
+- Really hate the Internet, but have to use it
+
+- Pigeon
+- Sweating soybean
+- Never take any care about any kind of political correctness
+- Rocket smashing
+- Military race
+- Myopia
+- Nationalism/Conservatism/Confucianism
+
+If you feel uncomfortable, adapt as soon as possible ;)
+
+- I'm currently working on Multiffi (https://github.com/Multiffi)
+- I'm currently learning OpenGL, Vulkan, FFI, Chiptune, Swordsmanship and many crazy things
+- Pronouns: She/Her
+- How to reach me: E-mail to tianscar@protonmail.com or send messages to Tianscar#8906 on Discord
