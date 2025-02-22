@@ -1,8 +1,5 @@
 5AC111AC15DA041B79267A2D64E3CEC89B72E06F
 
-Claims to be "Karstian Lee"
-It's "Karstian", not "Khristian" or "Karsten", I think it's unique ;)
-
 - Amateur programmer, programming just for fun
 - Open source developer
 - No account on StackOverflow
@@ -32,7 +29,7 @@ It's "Karstian", not "Khristian" or "Karsten", I think it's unique ;)
 If you feel uncomfortable, adapt as soon as possible ;)
 
 - I like China and will continue to live in China after living there for 15+ years
-- I'm currently working on Multiffi (https://github.com/Multiffi)
+- I'm currently working on PaperHanger (https://github.com/paperhanger)
 - I'm currently learning OpenGL, Vulkan, FFI, Chiptune, Swordsmanship and many crazy things
 - Pronouns: She/Her
 - How to reach me: E-mail to tianscar@protonmail.com or send messages to Tianscar#8906 on Discord
