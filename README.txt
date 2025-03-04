@@ -1,5 +1,3 @@
-5AC111AC15DA041B79267A2D64E3CEC89B72E06F
-
 - Amateur programmer, programming just for fun
 - Open source developer
 - No account on StackOverflow
